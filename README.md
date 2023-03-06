@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chris9soul
 - 👀 I’m interested in Interactive web experiences and 3D
-- 🌱 I’m currently learning Three.js
+- 🌱 I’m currently learning Sveltekit and Next.js
 - 💞️ I’m looking to collaborate on - nothing at the moment
-- 📫 How to reach me: design@chris9soul.com
+- 📫 How to reach me: dev@chris9soul.com

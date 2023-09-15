@@ -1,5 +1,10 @@
-👋 Hi, I’m Chris  
-I'm a creative developer, mainly doing frontend projects using Webflow + gsap + three.js.
+👋 Hi, I’m Chris.
+💼 Currently Head of Development/Innovation @ Creative Mules
 
-🌱 I’m currently learning Sveltekit and Next.js  
+Stuff I like using:
+Sveltekit
+Webflow
+Gsap
+Three.js
+
 📫 How to reach me: dev@chris9soul.com

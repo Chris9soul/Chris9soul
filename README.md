@@ -4,8 +4,9 @@
 
 Stuff I like using:
 Sveltekit
+Astro
 Webflow
-Gsap
+GSAP
 Three.js
 
 📫 How to reach me: dev@chris9soul.com

@@ -9,4 +9,6 @@ Webflow
 GSAP
 Three.js
 
-📫 How to reach me: dev@chris9soul.com
+🌐 chris9soul.com
+
+📫 dev@chris9soul.com

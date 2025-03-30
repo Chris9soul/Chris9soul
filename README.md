@@ -2,6 +2,8 @@
 
 💼 Currently Head of Development/Innovation @ Creative Mules
 
+Most of my work is not on github
+
 Stuff I like using:
 Sveltekit,
 Astro,

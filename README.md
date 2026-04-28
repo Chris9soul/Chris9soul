@@ -1,16 +1,13 @@
 👋 Hi, I’m Chris.
 
-💼 Currently Head of Development/Innovation @ Creative Mules
+💼 Currently freelancing as creative full-stack developer
 
 Most of my work is not on github
 
-Stuff I like using:
-Sveltekit,
-Astro,
-Webflow,
-GSAP,
-Three.js
+Built:
+[Formtress](https://wwww.formtress.com): Form spam filtering with no 3rd party tools.
+[Socks UI](https://socks-ui.webflow.io/): UI builder library for Webflow + GSAP.
 
-🌐 [chris9soul.com](https://www.chris9soul.com)
+🌐 [chris-soul.com](https://www.chris-soul.com)
 
-📫 dev@chris9soul.com
+📫 hey@chris-soul.com

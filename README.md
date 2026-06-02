@@ -6,11 +6,13 @@ Most of my work is not on github
 
 ---
 
-Built:
+Projects:
 
-[Formtress](https://wwww.formtress.com): Form spam filtering with no 3rd party tools.
+[Formtress](https://wwww.formtress.com): Smart form spam filtering. No AI, no 3rd party tool.
 
 [Socks UI](https://socks-ui.webflow.io/): UI builder library for Webflow + GSAP.
+
+[Eazing](https://eazing.chris.it.com/): Easing visualizer with practical UI previews.
 
 ---
 
